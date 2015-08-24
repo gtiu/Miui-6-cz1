@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boot_msg_text">
+        <item>-==LionMobile.cz==-</item>
+      	<item>-==LionMobile.cz==-</item>
+      	<item>-==LionMobile.cz==-</item>
+        <item>Probíhá instalace.</item>
+        <item>Probíhá instalace..</item>
+        <item>Probíhá instalace...</item>
+        <item>Optimalizace aplikací...</item>
+        <item>Své připomínky pište na LionMobile.cz</item>
+    </string-array>
+</resources>

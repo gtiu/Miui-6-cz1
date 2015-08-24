@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Po 1 minutě</item>
+        <item>Po 5 minutách</item>
+        <item>Po 10 minutách</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 sekund</item>
+        <item>30 sekund</item>
+        <item>1 minuta</item>
+        <item>2 minuty</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Výkonný režim</item>
+        <item>Vyvážený režim</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Nevibrovat</item>
+        <item>Vibrovat, když je ztišené zvonění</item>
+        <item>Vždy vibrovat</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Velikosti</item>
+        <item>Názvu</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Velikosti</item>
+        <item>Názvu</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Nejpoužívanější</item>
+        <item>Velikosti</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Vypnout</item>
+        <item>Zapnout</item>
+        <item>Neměnit</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Denně</item>
+        <item>Každé 3 dny</item>
+        <item>Každých 7 dní</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Upozornit</item>
+        <item>Vyčistit na pozadí</item>
+        <item>Upozornit po vyčištění</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Jednou</item>
+        <item>Denně</item>
+        <item>Pracovní dny (V Číně)</item>
+        <item>Po až Pá</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Jednou</item>
+        <item>Denně</item>
+        <item>Po až Pá</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="auto_memory_clean">
+        <item>za 1 minutu</item>
+        <item>za 5 minut</item>
+        <item>za 10 minut</item>
+        <item>Nikdy</item>
+    </string-array>
+     <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Volání</item>
+        <item>Zprávy</item>
+        <item>Prohlížeč</item>
+        <item>Fotoaparát</item>
+        <item>Galerie</item>
+        <item>Hudba</item>
+        <item>E-mail</item>
+    </string-array>
+</resources>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<resources>
+ <string-array name="weeks">
+  <item>Po</item> 
+  <item>Út</item> 
+  <item>St</item> 
+  <item>Čt</item> 
+  <item>Pá</item> 
+  <item>So</item> 
+  <item>Ne</item> 
+  </string-array>
+ <string-array name="weeks_short">
+  <item>Po</item> 
+  <item>Út</item> 
+  <item>St</item> 
+  <item>Čt</item> 
+  <item>Pá</item> 
+  <item>So</item> 
+  <item>Ne</item> 
+  </string-array>
+ <string-array name="months">
+  <item>Leden</item> 
+  <item>Únor</item> 
+  <item>Březen</item> 
+  <item>Duben</item> 
+  <item>Květen</item> 
+  <item>Červen</item> 
+  <item>Červenec</item> 
+  <item>Srpen</item> 
+  <item>Září</item> 
+  <item>Říjen</item> 
+  <item>Listopad</item> 
+  <item>Prosinec</item> 
+  </string-array>
+ <string-array name="select_days_simple">
+  <item>Jednou</item> 
+  <item>Každý den</item> 
+  <item>Po-Pá</item> 
+  <item>Vlastní</item> 
+  </string-array>
+ <string-array name="fortune">
+        <item>Je snadné dosáhnout cíle jednou, mnohem obtížnější každý den.</item>
+        <item>Není to tak jednoduché dosáhnout svého cíle každý den.</item>
+        <item>Máte každý den nový rekord!</item>
+        <item>Užijte si být lepší!</item>
+        <item>Nikdy neprohrajete, když se nepřestanete snažit.</item>
+        <item>Jsme tím, co děláme každý den.</item>
+        <item>Dosáhněte svého cíle každý den.</item>
+        <item>Cvičte a buďte lepší ještě dnes.</item>
+        <item>Prostě to udělejte.</item>
+        <item>Pokračujte v dosahování vašich cílů.</item>
+  </string-array>
+    <string-array name="weather_aqi_descriptions">
+        <item>Great</item>
+        <item>Good</item>
+        <item>Moderate</item>
+        <item>Caution</item>
+        <item>Unhealthy</item>
+        <item>Very Unhealthy</item>
+    </string-array>
+   <string-array name="weight_test_unit">
+        <item>Kg</item>
+        <item>jin</item>
+        <item>Pound</item>
+    </string-array>
+    <string-array name="weight_body_figures">
+        <item>Lehký</item>
+        <item>Normální</item>
+        <item>Nadváha</item>
+        <item>Obezita</item>
+        <item>Obezita</item>
+    </string-array>
+	    <string-array name="health_link_title">
+        <item>1. 24-hour emergency response</item>
+        <item>2. Emergency proposal</item>
+        <item>3. Help arrange emergency vehicles</item>
+        <item>4. Assist the dangerous condition report</item>
+        <item>5. Contact the families</item>
+        <item>6. Emergency Hospital Available</item>
+        <item>7. Hospitalization guide</item>
+    </string-array>
+    <string-array name="health_link_content">
+        <item>Health care professionals 24 hours, the bilingual provision of emergency assistance, 7x24 hours, 365 days year round.</item>
+        <item>In the user informed of the real situation, the AU will provide far Platinum ten minutes of "self" or "mutual aid" emergency proposal by telephone.</item>
+        <item>Far League call center call and immediately call the local emergency center telephone ("120" or "999"), the establishment of three-way calling, by the user to the emergency center readme Chuxian location tracking ambulance rescue process.</item>
+        <item>Assist the user in the event of an accident report to the authorities.</item>
+        <item>Notify family members or emergency contact person according to the user wishes and provide contact information.</item>
+        <item>Without prejudice to the "anxious, nearby, on the condition on patients and their families will" under the principles of first aid, first aid can be implemented far-Union Medical Hospital to user referrals, ultimately decided by the user, or according to the actual situation by emergency vehicles the doctor ordered.</item>
+        <item>Guidance hospitalization procedure, hospitalization precautions advice.</item>
+    </string-array>
+    <string-array name="watermark_tag_name">
+        <item>Mapa</item>
+        <item>Cesta</item>
+        <item>Úspěch</item>
+        <item>Název strany</item>
+        <item>Vzdálenost</item>
+        <item>Kalorie</item>
+        <item>Punch</item>
+        <item>Maraton</item>
+        <item>Ovládání zařízení</item>
+        <item>Noční běh pro rodiny</item>
+    </string-array>
+    <string-array name="weight_report_result_without_goal">
+        <item>Překonán cíl</item>
+        <item>Nebylo dosaženo cíle</item>
+        <item>Bylo dosaženo cíle!</item>
+    </string-array>
+    <string-array name="weight_report_result_with_goal_gainweight">
+        <item>Zatím nebylo dosaženo cíle</item>
+        <item>Zatím nebylo dosaženo cíle</item>
+        <item>Zatím nebylo dosaženo cíle</item>
+        <item>Bylo dosaženo cíle (%1$s%2$s)!</item>
+    </string-array>
+    <string-array name="weight_report_result_with_goal_loseweight">
+        <item>Zatím nebylo dosaženo cíle</item>
+        <item>Zatím nebylo dosaženo cíle</item>
+        <item>Zatím nebylo dosaženo cíle</item>
+        <item>Bylo dosaženo cíle (%1$s%2$s)!</item>
+    </string-array>
+    <string-array name="weight_dynamic_list_bmi_tips">
+        <item>BMI: Podvýživa</item>
+        <item>BMI: Normální hmotnost</item>
+        <item>BMI: Nadváha</item>
+        <item>BMI: Obezita</item>
+    </string-array>
+    <string-array name="running_months">
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+    </string-array>
+    <string-array name="phone_notify_tips">
+        <item>Vibrovat s MiBand během příchozího hovoru</item>
+        <item>Vibrovat s MiBand během buzení</item>
+        <item>Vibrovat s MiBand při přijetí SMS zprávy</item>
+    </string-array>
+    <string-array name="weight_body_figures_for_child">
+        <item>Lehký</item>
+        <item>Normální</item>
+        <item>Nadváha</item>
+        <item>Obezita</item>
+        <item>Obezita</item>
+    </string-array>
+    <string-array name="contacts_notify_title">
+        <item>Pouze pro hovory od kontaktů</item>
+        <item>Pouze pro SMS od kontaktů</item>
+     </string-array>
+</resources>
